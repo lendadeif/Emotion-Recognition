@@ -18,7 +18,7 @@ Detects 5 emotions: **Angry, Happy, Neutral, Sad, Surprise** — with 69% accura
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-recognition.git
+git clone https://github.com/lendadeif/Emotion-Recognition.git
 cd emotion-recognition
 ```
 
