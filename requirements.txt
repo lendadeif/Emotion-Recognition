@@ -1,3 +1,4 @@
-opencv-python
+opencv2-python
 tensorflow
 numpy
+mediapipe==0.10.33
