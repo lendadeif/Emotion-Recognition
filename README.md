@@ -1,4 +1,6 @@
 # 🧠 Smart Room AI System
+<img width="1280" height="853" alt="smart home" src="https://github.com/user-attachments/assets/ae554c31-2c7c-4215-9a08-dda22c74f60f" />
+
 
 Real-time facial analysis system combining **emotion recognition** and **drowsiness detection** to automatically control room lighting — running on Raspberry Pi with a camera only.
 
